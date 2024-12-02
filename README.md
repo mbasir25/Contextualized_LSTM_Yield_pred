@@ -1,5 +1,4 @@
-## Contextualized_LSTM_Yield_pred
-# Crop Yield Prediction with Machine Learning
+## Contextualized LSTM-DNN Model for County-Level Corn Yield Prediction from Weather and Soil Data
 
 Crop yield prediction is critical for agricultural insurance, better risk management, and efficient production strategies. In this study, we propose a novel machine-learning framework to predict county-level corn yield using daily weather data, weather-derived features based on zigzag topology persistence, and static soil information.
 
